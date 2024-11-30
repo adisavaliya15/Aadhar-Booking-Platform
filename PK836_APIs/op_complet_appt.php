@@ -109,7 +109,7 @@ if (isset($_POST["APNT_ID"]) && isset($_POST["OP_ID"]) && isset($_POST["OP_NAME"
             //     CURLOPT_CUSTOMREQUEST => "POST",
             //     CURLOPT_POSTFIELDS => json_encode($fields),
             //     CURLOPT_HTTPHEADER => array(
-            //         "authorization: g2U5rNZ3SAWOkGQvTxYRj6EMnF41py9JflCzVDubPqi7IBho0c75HlyLgcE12TBh8eKJbFjP9mrziNUX",
+            //         "authorization: ",
             //         "accept: */*",
             //         "cache-control: no-cache",
             //         "content-type: application/json"
