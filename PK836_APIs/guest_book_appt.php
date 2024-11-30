@@ -239,7 +239,7 @@ if (isset($_POST["ANDROID_ID"]) && isset($_POST["F_NAME"]) && isset($_POST["L_NA
                         // 	CURLOPT_CUSTOMREQUEST => "POST",
                         // 	CURLOPT_POSTFIELDS => json_encode($fields),
                         // 	CURLOPT_HTTPHEADER => array(
-                        // 		"authorization: g2U5rNZ3SAWOkGQvTxYRj6EMnF41py9JflCzVDubPqi7IBho0c75HlyLgcE12TBh8eKJbFjP9mrziNUX",
+                        // 		"authorization: ",
                         // 		"accept: */*",
                         // 		"cache-control: no-cache",
                         // 		"content-type: application/json"
